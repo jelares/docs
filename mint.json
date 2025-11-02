@@ -71,7 +71,13 @@
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "api-reference/introduction",
+        {
+          "group": "Websocket Documentation",
+          "pages": [
+            "websocket/introduction"
+          ]
+        }
       ]
     },
     {
